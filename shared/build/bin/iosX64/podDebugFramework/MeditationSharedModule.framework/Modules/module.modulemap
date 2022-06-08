@@ -1,0 +1,6 @@
+framework module MeditationSharedModule {
+    umbrella header "MeditationSharedModule.h"
+
+    export *
+    module * { export * }
+}
